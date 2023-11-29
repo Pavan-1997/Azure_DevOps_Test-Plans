@@ -51,3 +51,19 @@ Gather results in the form of screen recording and capture.
 - You should have Basic + test plan access to execute, create, and publish test cases
 - To execute the test cases using Test Runner, you should have at least basic access
 - To run exploratory testing with the Feedback extension, you should have stakeholder access
+
+### Test Plan :clipboard:
+
+- Group of test suites and test cases
+
+### Test Suites :package:
+
+- Group of test cases into separate test scenarios
+
+### Test Cases :heavy_check_mark:
+
+- Actual steps to test an application
+
+### Shared Steps :two_men_holding_hands:
+
+- Steps that can be shared across test cases
