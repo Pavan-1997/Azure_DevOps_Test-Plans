@@ -60,7 +60,7 @@ Gather results in the form of screen recording and capture.
 
 - Group of test cases into separate test scenarios
 
-### Test Cases :heavy_check_mark:
+### Test Cases  
 
 - Actual steps to test an application
 
