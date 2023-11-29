@@ -77,7 +77,7 @@ Gather results in the form of screen recording and capture.
 
 - Go to Azure DevOps Organization settings -> Billing -> Activate the Basic + Test Plans 
 
-2. Now go to User in same settings page click on the default user 
+- Now go to User in same settings page click on the default user 
 
 3. Now click on more option on th default user -> Change Access level to Basic + Test Plans -> Click on Save
 
