@@ -28,7 +28,7 @@ Pipeline tasks capture and publish test results, which can be reviewed using pro
 Test cases and suites are linked to user stories, features, or requirements for end-to-end traceability.
 It helps in tracking the quality of requirements.
 
-## Reporting and Analysis :chart_with_upwards_trend:
+## Reporting and Analysis  
 
 ### Configurable Tracking
 Progress can be tracked through configurable charts and test-specific widgets on dashboards.
