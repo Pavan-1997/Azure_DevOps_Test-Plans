@@ -52,6 +52,8 @@ Gather results in the form of screen recording and capture.
 - To execute the test cases using Test Runner, you should have at least basic access
 - To run exploratory testing with the Feedback extension, you should have stakeholder access
 
+  ![image](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero/assets/40286378/de46dd53-3d44-4208-93e1-2497ed422877)
+
 ### Test Plan  
 
 - Group of test suites and test cases
