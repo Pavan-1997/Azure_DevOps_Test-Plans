@@ -21,3 +21,17 @@ Azure Test Plans works seamlessly with Azure Pipelines for continuous integratio
 
 ### Result Capture and Review 
 Pipeline tasks capture and publish test results, which can be reviewed using progress and pipeline reports.
+
+## Traceability  
+
+### Linking to User Stories/Requirements
+Test cases and suites are linked to user stories, features, or requirements for end-to-end traceability.
+It helps in tracking the quality of requirements.
+
+## Reporting and Analysis :chart_with_upwards_trend:
+
+### Configurable Tracking
+Progress can be tracked through configurable charts and test-specific widgets on dashboards.
+
+### Built-in Reports
+Various built-in reports, such as Progress reports, pipeline test result reports, and Analytics services, aid in result tracking and progress monitoring.
