@@ -85,9 +85,9 @@ Gather results in the form of screen recording and capture.
 
 - Now click on more options in the Test Plan created -> Click on New Suite -> Click on Requirement based suite
 
-6. Now go to Boards -> Work items -> New Work Item -> Epic -> Give a title name -> Save it
+- Now go to Boards -> Work items -> New Work Item -> Epic -> Give a title name -> Save it
 
-7. Go to Step 5. change the Value of Work Item Type to Microsoft.EpicCategory -> Click on Run query -> You will see the epic created -> Click on Create suites
+- Go to Step 5. change the Value of Work Item Type to Microsoft.EpicCategory -> Click on Run query -> You will see the epic created -> Click on Create suites
 
 8. Click on New Test Case -> Give a title name -> Give Steps -> Give also Expected results -> Click on Save and Close -> Similary add another Test Case
 
