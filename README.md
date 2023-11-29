@@ -64,6 +64,6 @@ Gather results in the form of screen recording and capture.
 
 - Actual steps to test an application
 
-### Shared Steps :two_men_holding_hands:
+### Shared Steps  
 
 - Steps that can be shared across test cases
