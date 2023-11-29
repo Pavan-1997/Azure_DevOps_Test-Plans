@@ -74,3 +74,25 @@ Gather results in the form of screen recording and capture.
 
 ---
 ## Steps to Perform
+
+1. Go to Azure DevOps Organization settings -> Billing -> Activate the Basic + Test Plans 
+
+2. Now go to User in same settings page click on the default user 
+
+3. Now click on more option on th default user -> Change Access level to Basic + Test Plans -> Click on Save
+
+4. Now go to the Test Plans in the Project created earlier -> Click on + New Test Plan -> Give it a nane -> Click on Create
+
+5. Now click on more options in the Test Plan created -> Click on New Suite -> Click on Requirement based suite
+
+6. Now go to Boards -> Work items -> New Work Item -> Epic -> Give a title name -> Save it
+
+7. Go to Step 5. change the Value of Work Item Type to Microsoft.EpicCategory -> Click on Run query -> You will see the epic created -> Click on Create suites
+
+8. Click on New Test Case -> Give a title name -> Give Steps -> Give also Expected results -> Click on Save and Close -> Similary add another Test Case
+
+9. By clicking on the Test Case we can assign to any person from the Testing team
+
+10. Go to Step 6. in the Boards you will be seeing test cases attached to the epic created
+
+11. Go to Test Plans select all the Test cases -> Click on Execute -> Click on Run for web application -> It gives you a Runner with more options
