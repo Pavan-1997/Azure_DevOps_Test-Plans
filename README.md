@@ -43,6 +43,11 @@ Various built-in reports, such as Progress reports, pipeline test result reports
 - Mark test passed or failed
 - Capture the results
 
-## Test and Feedback Extension :mag_right:
+## Test and Feedback Extension  
 
 Gather results in the form of screen recording and capture.
+
+## Access level 
+- You should have Basic + test plan access to execute, create, and publish test cases
+- To execute the test cases using Test Runner, you should have at least basic access
+- To run exploratory testing with the Feedback extension, you should have stakeholder access
