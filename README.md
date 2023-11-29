@@ -75,7 +75,7 @@ Gather results in the form of screen recording and capture.
 ---
 ## Steps to Perform
 
-1. Go to Azure DevOps Organization settings -> Billing -> Activate the Basic + Test Plans 
+- Go to Azure DevOps Organization settings -> Billing -> Activate the Basic + Test Plans 
 
 2. Now go to User in same settings page click on the default user 
 
