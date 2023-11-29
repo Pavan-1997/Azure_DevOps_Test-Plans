@@ -14,7 +14,7 @@ Developers, testers, UX teams, and others explore the software without predefine
 ### Stakeholder Feedback
 Testing by external stakeholders, like marketing and sales teams, using the browser-based extension Azure Test Feedback.
 
-## Automated Testing :robot: 
+## Automated Testing   
 
 ### Integration with Azure Pipelines 
 Azure Test Plans works seamlessly with Azure Pipelines for continuous integration and deployment (CI/CD).
