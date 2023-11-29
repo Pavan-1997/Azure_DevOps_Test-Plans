@@ -52,11 +52,11 @@ Gather results in the form of screen recording and capture.
 - To execute the test cases using Test Runner, you should have at least basic access
 - To run exploratory testing with the Feedback extension, you should have stakeholder access
 
-### Test Plan :clipboard:
+### Test Plan  
 
 - Group of test suites and test cases
 
-### Test Suites :package:
+### Test Suites  
 
 - Group of test cases into separate test scenarios
 
