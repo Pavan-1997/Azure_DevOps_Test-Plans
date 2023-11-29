@@ -79,11 +79,11 @@ Gather results in the form of screen recording and capture.
 
 - Now go to User in same settings page click on the default user 
 
-3. Now click on more option on th default user -> Change Access level to Basic + Test Plans -> Click on Save
+- Now click on more option on th default user -> Change Access level to Basic + Test Plans -> Click on Save
 
-4. Now go to the Test Plans in the Project created earlier -> Click on + New Test Plan -> Give it a nane -> Click on Create
+- Now go to the Test Plans in the Project created earlier -> Click on + New Test Plan -> Give it a nane -> Click on Create
 
-5. Now click on more options in the Test Plan created -> Click on New Suite -> Click on Requirement based suite
+- Now click on more options in the Test Plan created -> Click on New Suite -> Click on Requirement based suite
 
 6. Now go to Boards -> Work items -> New Work Item -> Epic -> Give a title name -> Save it
 
