@@ -93,6 +93,6 @@ Gather results in the form of screen recording and capture.
 
 - By clicking on the Test Case we can assign to any person from the Testing team
 
-10. Go to Step 6. in the Boards you will be seeing test cases attached to the epic created
+- Go to Step 6. in the Boards you will be seeing test cases attached to the epic created
 
-11. Go to Test Plans select all the Test cases -> Click on Execute -> Click on Run for web application -> It gives you a Runner with more options
+- Go to Test Plans select all the Test cases -> Click on Execute -> Click on Run for web application -> It gives you a Runner with more options
