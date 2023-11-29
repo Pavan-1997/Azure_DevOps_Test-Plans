@@ -69,3 +69,5 @@ Gather results in the form of screen recording and capture.
 ### Shared Steps  
 
 - Steps that can be shared across test cases
+
+![image](https://github.com/Pavan-1997/Azure_DevOps_Test-Plans/assets/32020205/49fdf875-5707-4d60-9b1a-090ebdc700cd)
