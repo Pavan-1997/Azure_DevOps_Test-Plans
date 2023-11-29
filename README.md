@@ -42,3 +42,7 @@ Various built-in reports, such as Progress reports, pipeline test result reports
 - Test Runner: for web and desktop
 - Mark test passed or failed
 - Capture the results
+
+## Test and Feedback Extension :mag_right:
+
+Gather results in the form of screen recording and capture.
