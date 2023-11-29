@@ -89,9 +89,9 @@ Gather results in the form of screen recording and capture.
 
 - Go to Step 5. change the Value of Work Item Type to Microsoft.EpicCategory -> Click on Run query -> You will see the epic created -> Click on Create suites
 
-8. Click on New Test Case -> Give a title name -> Give Steps -> Give also Expected results -> Click on Save and Close -> Similary add another Test Case
+- Click on New Test Case -> Give a title name -> Give Steps -> Give also Expected results -> Click on Save and Close -> Similary add another Test Case
 
-9. By clicking on the Test Case we can assign to any person from the Testing team
+- By clicking on the Test Case we can assign to any person from the Testing team
 
 10. Go to Step 6. in the Boards you will be seeing test cases attached to the epic created
 
