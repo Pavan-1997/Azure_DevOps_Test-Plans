@@ -35,3 +35,10 @@ Progress can be tracked through configurable charts and test-specific widgets on
 
 ### Built-in Reports
 Various built-in reports, such as Progress reports, pipeline test result reports, and Analytics services, aid in result tracking and progress monitoring.
+
+# Running Tests :running:
+
+## Options
+- Test Runner: for web and desktop
+- Mark test passed or failed
+- Capture the results
