@@ -1,6 +1,6 @@
 # Azure DevOps Test Plans
 
-## Manual and Exploratory Testing :pencil2:
+## Manual and Exploratory Testing  
 
 ### Planned Manual Testing
 Designated testers and test leads organize tests into plans and suites.
