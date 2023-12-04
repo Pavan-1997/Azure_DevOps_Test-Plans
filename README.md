@@ -1,5 +1,5 @@
 # Azure DevOps Test Plans  
-             
+              
 ## Manual and Exploratory Testing  
 
 ### Planned Manual Testing
